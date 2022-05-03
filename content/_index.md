@@ -7,4 +7,6 @@ Hola ✌️  soy el explorer **XavCilia** y este es mi blog personal donde compa
 
 Te invito a conocer mis aprendizajes y leer mis experiencias.
 
+Mis expectativas son:
+Aprender mas del manejo de JS, NodeJS, Git y Github
 🚀
